@@ -30,7 +30,7 @@
 
 You can view the current deployment by clicking the link bellow:
 
-[Live Link](https://)
+[Live Link](https://yuriy-dashboard.netlify.app/)
 ### Deployment
 
 - Using [Netlify](https://netlify.com)
