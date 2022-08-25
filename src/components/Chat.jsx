@@ -17,13 +17,11 @@ const Chat = () => {
             5 New
           </button>
         </div>
-        <Button
-          icon={<MdOutlineCancel />}
-          color="rgb(153, 171, 180)"
-          bgHoverColor="light-gray"
-          size="2xl"
-          borderRadius="50%"
-        />
+        <button type='button'
+          style={{ color: 'rgb(153, 171, 180', borderRadius: '50%'}}
+          className='text-2xl p-3 hover:drop-shadow-xl hover:bf-light-gray'>
+          <MdOutlineCancel />
+        </button>
       </div>
       <div className="mt-5 ">
         {chatData?.map((item, index) => (
