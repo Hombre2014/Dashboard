@@ -19,7 +19,7 @@
 
 You can view the current deployment by clicking the link bellow:
 
-[Live Link](https://yuriy-portfolio.netlify.app/)
+[Live Link](https://)
 ### Deployment
 
 - Using [Netlify](https://netlify.com)
@@ -35,7 +35,7 @@ You can view the current deployment by clicking the link bellow:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre/react_portfolio/issues).
+Feel free to check the [issues page](https://github.com/Hombre2014/Dashboard/issues).
 
 ## Show your support
 
