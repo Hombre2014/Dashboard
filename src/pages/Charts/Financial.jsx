@@ -9,6 +9,7 @@ const date1 = new Date('2017, 1, 1');
 
 function filterValue(value) {
   if (value.x >= date1) {
+    // eslint-disable-next-line no-sequences
     return value.x, value.high, value.low;
   }
 }
