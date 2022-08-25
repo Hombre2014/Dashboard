@@ -8,11 +8,22 @@
 - Tools used: Syncfusion, Tailwind
 ## Screenshots
 
+### Home
 ![Home](src/assets/images/home.png)
+
+### Calendar App
 ![Calendar](src/assets/images/calendar.png)
+
+### Color picker App
 ![Color picker](src/assets/images/color.png)
+
+### Area Chart
 ![Area Chart](src/assets/images/area.png)
+
+### Color Mapping Chart
 ![Color Mapping chart](src/assets/images/color-chart.png)
+
+### E-commerce Dashboard
 ![E-commerce](src/assets/images/home-2.png)
 
 ## Live Link
