@@ -1,7 +1,6 @@
-# Yuriy Chamkoriyski's React Portfolio
+# Syncfusion Dashboard
 
-> Showcase projects portfolio.
-## Built With
+> Dashboard, created with Syncfusion, React and Tailwind CSS.
 
 - Major languages: JavaScript
 - Framework: React
